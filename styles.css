@@ -1,3 +1,183 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+div {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+span {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.Button_root {
+  color: #333 !important;
+}
+
+.Line_root {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 12px;
+}
+
+.Header_label {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.TextInput_root input {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.DialButton_btnValue {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.ActiveCallButton_buttonTitle {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 70px !important;
+}
+
+.DialButton_btnText {
+  font-size: 65px !important;
+}
+
+.IncomingCallPad_callButton text {
+  font-size: 70px !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+.ActiveCallPanel_backLabel {
+  top: 5px !important;
+  font-size: 13px !important;
+}
+
+.DialButton_btnSvgGroup:hover .DialButton_circle {
+  stroke: #333333 !important;
+  stroke-width: 7 !important;
+  fill: transparent !important;
+}
+
+nav.NavigationBar_root {
+  background: #000!important;
+}
+
+svg.DialerPanel_dialBtn circle{
+  fill: #333!important;
+}
+
+.DialButton_btnSvgGroup:hover text {
+  fill: #000!important;
+}
+
+.DropdownSelect_selected {
+  color: #000!important;
+}
+
+.DropdownSelect_dropdownItem:hover {
+  color: #000!important;
+}
+
+.CallIdSelect_root label {
+  font-size: 9px;
+}
+
+.Message_alert {
+  background: #000 !important;
+  border-color: #000 !important;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.SettingsPanel_eula {
+  color: #000!important;
+}
+
+.DropdownNavigationItem_root.DropdownNavigationItem_active {
+  color: #000!important;
+}
+
+.DropdownNavigationItem_labelHolder {
+  line-height: 23px!important;
+  color: #000 !important;
+}
+
+.ContactDropdownList_contactItem {
+  font-size: 10px!important;
+}
+
+.ContactDropdownList_dropdownList li.ContactDropdownList_active {
+  color: #000!important;
+}
+
+.ContactDropdownList_dropdownList li.ContactDropdownList_active .ContactDropdownList_name {
+  color: #000!important;
+}
+
+.RecipientsInput_selectReceivers .RecipientsInput_extension {
+  background-color: #000!important;
+}
+
+.RecipientsInput_selectReceivers .RecipientsInput_phoneNumber {
+  background-color: #000!important;
+}
+
+.RecipientsInput_container label {
+  font-size: 13px!important;
+}
+
+.ComposeTextPanel_senderSelect label {
+  color: #000!important;
+  font-size: 10px;
+}
+
+.ComposeTextPanel_submitButton {
+  background-color: #000!important;
+}
+
+.CircleButton_icon g {
+  fill: #000 !important;
+}
+
+.CircleButton_icon path {
+  fill: #000 !important;
+}
+
+.CircleButton_icon rect {
+  fill: #000 !important;
+}
+
+.ActiveCallsPanel_listTitle {
+  font-size: 12px!important;
+}
+
+.ActiveCallBadge_phoneBage {
+  font-size: 8px !important;
+  background: #000 !important;
+}
+
+.ConversationPanel_submitButton {
+  background: #000 !important;
+}
+
+.RegionSettingsPanel_hint {
+  font-size: 12px !important;
+}
+
+.RecipientsInput_numberInput::placeholder {
+  font-size: 11px!important;
+}
+
+.LoginPanel_loginButton {
+  background-color: #000!important;
+}
+
+.PresenceSettingSection_showDropdown .PresenceSettingSection_title {
+  color: #000;
+}
+
+.DropdownNavigationItem_iconHolder svg path{
+  fill: #000;
+}
+
 .IncomingCallPanel_userInfo{
 
 
