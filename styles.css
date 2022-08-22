@@ -196,5 +196,5 @@ svg.DialerPanel_dialBtn circle{
 }
 
 .IncomingCallPad_buttonRow{
-display: none !important;
+  display: none !important;
 }
