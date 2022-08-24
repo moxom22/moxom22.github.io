@@ -192,3 +192,10 @@ svg.DialerPanel_dialBtn circle{
 .TabNavigationView_tabContainer{
   display: none !important;
 }
+.RecipientsInput_container{
+  display: none !important;
+}
+
+RecipientsInput_rightPanel{
+  display: none !important;
+}
