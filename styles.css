@@ -184,3 +184,7 @@ svg.DialerPanel_dialBtn circle{
   display: none !important;
 
 }
+
+.DialPad_root DialerPanel_dialPad{
+    display: none !important;
+}
