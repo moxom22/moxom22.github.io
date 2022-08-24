@@ -188,3 +188,7 @@ svg.DialerPanel_dialBtn circle{
 .DialPad_root{
     display: none !important;
 }
+
+.TabNavigationView_tabContainer{
+  display: none !important;
+}
