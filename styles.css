@@ -218,3 +218,9 @@ display: block !important;
 RecipientsInput_rightPanel{
   display: none !important;
 }
+
+#rc-widget{
+  max-height: 200px;
+  transform: none !important;  
+ 
+}
