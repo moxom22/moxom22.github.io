@@ -211,6 +211,10 @@ display: none !important;
 display: block !important;
 }
 
+.ActiveCallPanel_userInfo{
+  display: none !important;
+}
+
 RecipientsInput_rightPanel{
   display: none !important;
 }
