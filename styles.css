@@ -203,6 +203,10 @@ display: none !important;
 display: none !important;
 }
 
+.IncomingCallPad_buttonRow.IncomingCallPad_answerButtonGroup{
+display: block !importand;
+}
+
 #rc-widget{
 max-height: 150px;
 }
