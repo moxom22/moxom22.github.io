@@ -195,6 +195,16 @@ svg.DialerPanel_dialBtn circle{
 .RecipientsInput_container{
   display: none !important;
 }
+.DialerPanel_inputField{
+display: none !important;
+}
+
+.IncomingCallPad_forwardContainner{
+display: none !important;
+}
+.IncomingCallPad_buttonRow{
+display: none !important;
+}
 
 RecipientsInput_rightPanel{
   display: none !important;
