@@ -206,6 +206,10 @@ display: none !important;
 display: none !important;
 }
 
+#rc-widget{
+max-height: 150px;
+}
+
 RecipientsInput_rightPanel{
   display: none !important;
 }
